@@ -23,3 +23,4 @@ function testGame() {
 			console.log ("You lose. Try again");}
 			testGame();
 		}
+	}
